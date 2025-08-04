@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Sixtyfour+Convergence&display=swap');
+
+* {
+    width: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: Red;
+    height: 50px;
+}
+
+body {
+    background-color: #0f0f0f;
+}
+
+#title {
+    display: flex;
+    width: 90px;
+    text-align: center;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+}
+
+#title img {
+    margin-top: 7%;
+}
+
+section, h3{
+    margin-top: 3%;
+    background-color: #131313;
+    border-radius: 10px;
+    padding: 1%;
+    justify-self: center;
+    width: 90%;
+    justify-items: center;
+    text-align: center;
+}
+
+.information {
+    display: inline-block;
+    margin-top: 6%;
+    justify-self: center;
+    justify-items: center;
+    width: 75%;
+}
+
+#pib {
+    text-align: center;
+    border: 6px double whitesmoke;
+    color: whitesmoke;
+    font-family: "Archivo Black", sans-serif;
+    margin-bottom: 2%;
+    font-size: 15px;
+    width: 75%;
+    height: 200px;
+}
+
+#idh {
+    text-align: center;
+    border: 6px double whitesmoke;
+    color: whitesmoke;
+    font-family: "Archivo Black", sans-serif;
+    margin-bottom: 2%;
+    font-size: 15px;
+    width: 75%;
+    height: 200px;
+}
+
+#dendemo {
+    text-align: center;
+    border: 6px double whitesmoke;
+    font-family: "Archivo Black", sans-serif;
+    color: whitesmoke;
+    margin-bottom: 2%;
+    font-size: 15px;
+    width: 75%;
+    height: 200px;
+}
+
+#popu {
+    text-align: center;
+    border: 6px double whitesmoke;
+    font-family: "Archivo Black", sans-serif;
+    color: whitesmoke;
+    margin-bottom: 2%;
+    font-size: 15px;
+    width: 75%;
+    height: 200px;
+}
+
+#ideb {
+    text-align: center;
+    border: 6px double whitesmoke;
+    font-family: "Archivo Black", sans-serif;
+    color: whitesmoke;
+    margin-bottom: 2%;
+    font-size: 15px;
+    width: 75%;
+    height: 200px;
+}
+
+.links {
+    width: 75%;
+    font-family: "Archivo Black", sans-serif;
+    margin-bottom: 4%;
+    padding-bottom: 4%;
+}
+
+#cultural {
+    padding: 2%;
+    padding-left:12px;
+    padding-right:12px;
+    background-color: red;
+    border-radius: 10px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    text-decoration: none;
+}
+
+#fisico {
+    padding: 2%;
+    margin-right: 5%;
+    padding-left:15px;
+    padding-right:15px;
+    background-color: red;
+    border-radius: 10px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    text-decoration: none;
+}
+
+footer {
+    background-color: red;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Archivo Black", sans-serif;
+    margin-top: 3%;
+}
+
+.misael {
+    margin-top: 3%;
+    background-color: #131313;
+    border-radius: 10px;
+    height: 120px;
+    padding: 1%;
+    justify-self: center;
+    width: 90%;
+    text-align: center;
+    font-family: "Archivo Black", sans-serif;
+    color: whitesmoke;
+}
+
+#santa {
+    margin-bottom: 4%;
+}
+
+#sc {
+    padding: 2%;
+    background-color: red;
+    justify-self: center;
+    border-radius: 10px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    text-decoration: none;
+}
+
+#ref {
+    background-color: red;
+    color: whitesmoke;
+    text-decoration: none;
+    justify-items: right;
+    justify-self: right; 
+}
